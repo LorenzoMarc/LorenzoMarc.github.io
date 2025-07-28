@@ -1,7 +1,8 @@
 # 🌐 My Personal Website
 
-Welcome to the repository for my personal Github page — a space where I showcase my work experience, projects, and passions. 
-Built with modern web template, it's designed to be responsive, and a reflection of my professional journey.
+Welcome to the repository for my personal Github page — a space where I showcase my work experience, education, and passions.
+
+(yes, it's a boring CV right now..changes has to be done) 
 
 
 ## 🚀 Live Demo
@@ -13,8 +14,8 @@ Built with modern web template, it's designed to be responsive, and a reflection
 ## ✨ Features
 
 - 🧑‍💼 Bio section with career highlights
+- :mega: Personal blog (90s)
 - 💼 Project portfolio with descriptions and links in My Resources
-- 📱 Fully responsive and mobile-friendly
 - 📧 Contact me section
 ---
 
